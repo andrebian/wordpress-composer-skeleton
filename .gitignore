@@ -1,0 +1,20 @@
+/*
+!/.gitignore
+!/composer.json
+!/README.md
+!/index.php
+
+# Caso necessário designorar algo de wp-content, remover os comentários abaixo
+#!/wp-content
+#/wp-content/*
+
+# Designorando temas
+    #!/wp-content/themes
+    #/wp-content/themes/*
+    #!/wp-content/themes/tema-desejado
+
+
+# Designorando plugins
+    #!/wp-content/plugins
+    #/wp-content/plugins/*
+    #!/wp-content/plugins/seu-plugin-1
